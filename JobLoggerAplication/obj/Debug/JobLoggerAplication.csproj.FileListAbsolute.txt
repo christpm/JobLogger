@@ -1,0 +1,5 @@
+c:\users\rayo\documents\visual studio 2012\Projects\JobLoggerAplication\JobLoggerAplication\bin\Debug\JobLoggerAplication.exe.config
+c:\users\rayo\documents\visual studio 2012\Projects\JobLoggerAplication\JobLoggerAplication\bin\Debug\JobLoggerAplication.exe
+c:\users\rayo\documents\visual studio 2012\Projects\JobLoggerAplication\JobLoggerAplication\bin\Debug\JobLoggerAplication.pdb
+c:\users\rayo\documents\visual studio 2012\Projects\JobLoggerAplication\JobLoggerAplication\obj\Debug\JobLoggerAplication.exe
+c:\users\rayo\documents\visual studio 2012\Projects\JobLoggerAplication\JobLoggerAplication\obj\Debug\JobLoggerAplication.pdb
